@@ -27,7 +27,8 @@ body{
 .center{
     text-align: center;
     padding: 181px;
-     font-family: 'Chango', cursive;
+    font-family: 'Chango', cursive;
+    cursor: pointer;
 }
 h1, h2, h3, h4, h5, h6{
     padding: 0;
